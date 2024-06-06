@@ -19,6 +19,11 @@ for Authentication:
 -> Laravel Breeze will set up basic authentication views, routes, and controllers.
 
 
+You Can Login using:
+
+Email : demo2@gmail.com
+Password : demo1234
+
 ## Add All Database
 
 First Add Database
