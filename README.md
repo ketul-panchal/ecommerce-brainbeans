@@ -46,10 +46,6 @@ composer require laravel/breeze --dev
 ```
 
 ```bash
-php artisan breeze:install
-```
-
-```bash
 npm install
 ```
 
