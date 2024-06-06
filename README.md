@@ -39,5 +39,23 @@ To Run this Project
   php artisan serve
 ```
 
+## for Authentication
+
+```bash
+composer require laravel/breeze --dev
+```
+
+```bash
+php artisan breeze:install
+```
+
+```bash
+npm install
+```
+
+```bash
+php artisan migrate
+```
+
 
 
